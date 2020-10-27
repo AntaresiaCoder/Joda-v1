@@ -1,2 +1,2 @@
-# Joda-v1
-Code about V1 of robot
+# Personal code tests
+Code about learning of robotics
